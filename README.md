@@ -19,6 +19,7 @@ We face the problem of defaulting on some customers' payments, which makes us fo
 # Data Description
 * The data is customer data such as gender, marital status and education..
 * The data was extracted from Kaggle and it contains 13 columns and 615 rows.
+* https://www.kaggle.com/burak3ergun/loan-data-set
 
 # Tools
 * Technologies: Python, Jupyter notebook.
