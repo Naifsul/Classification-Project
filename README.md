@@ -1,7 +1,7 @@
 
 # Loans Prediction 
 students:
-* Naif Alsulaihen
+* Naif Alsulaihem
 * Nasser Alshehri
 
 
