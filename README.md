@@ -1,4 +1,3 @@
-# Classification-Project
 
 # Loans Prediction 
 students:
